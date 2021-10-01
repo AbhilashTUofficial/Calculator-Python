@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+# Calculator-Python
+A simple GUI version Python Calculator.
+<br/>
+### Languages & tools :
+[<img align="left" alt="VS Code" width="26px" src="./Img/python.png">][py]
+[<img align="left" alt="python" width="26px" src="./Img/vscode.png">][py]
+<br/><br/>
+![GitHub last commit](https://img.shields.io/github/last-commit/AbhilashTUofficial/Calculator-Python?color=blue&label=Last%20Commit%3A&style=for-the-badge)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/AbhilashTUofficial/Calculator-Python?label=Repo%20Size%3A&style=for-the-badge)
+|Calculator V0.1 |
+|------|
+|<img src="./Img/calculator_v0.1.png" width="250">|
 
-You can use the [editor on GitHub](https://github.com/AbhilashTUofficial/Calculator-Python/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Directory Structure :     
+    |-- Calculator_v0.1
+    |   |-- Main.py
+    |
+    |-- Img
+    |   |-- vscode.png
+    |   |-- python.png
+    |   |-- calculator_v0.1.png
+    |
+    |-- README.md
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Connect with me:  
+<a href="https://grabify.link/34LU2G" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://grabify.link/A9HVHU" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://grabify.link/T0ZFYZ/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+<br/>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AbhilashTUofficial/Calculator-Python/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[website]: https://abhilashtuofficial.github.io/
+[py]: https://github.com/AbhilashTUofficial/Calculator-Python
