@@ -7,18 +7,19 @@ A simple GUI version Python Calculator.
 <br/><br/>
 ![GitHub last commit](https://img.shields.io/github/last-commit/AbhilashTUofficial/Calculator-Python?color=blue&label=Last%20Commit%3A&style=for-the-badge)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/AbhilashTUofficial/Calculator-Python?label=Repo%20Size%3A&style=for-the-badge)
-|Calculator V0.1 |
+|Calculator V1.0.2 |
 |------|
-|<img src="./Img/calculator_v0.1.png" width="250">|
+|<img src="./Img/calculator_v1.0.2.png" width="250">|
 
 ### Directory Structure :     
     |-- Calculator_v0.1
     |   |-- Main.py
+    |   |-- test.py
     |
     |-- Img
     |   |-- vscode.png
     |   |-- python.png
-    |   |-- calculator_v0.1.png
+    |   |-- calculator_v1.0.2.png
     |
     |-- README.md
 
